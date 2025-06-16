@@ -7,14 +7,13 @@ The project includes solutions to six distinct problems, each demonstrating a ke
 ##  Folder Structure
 
 project-folder/
-│
-├── data/     # Contains provided image files
-│   ├── tf2_engineer.jpg
-│   ├── einstein.tif
-│   ├── pout.tif
-│   ├── moon.tif
-│   ├── pcb.tif
-│   └── pollen.tif
+ data/     # Contains provided image files
+  ├── tf2_engineer.jpg
+  ├── einstein.tif
+  ├── pout.tif
+  ├── moon.tif
+  ├── pcb.tif
+  └── pollen.tif
 │
 ├── final_project.ipynb            # Jupyter Notebook with all solutions
 ├── README.md                      # This file
