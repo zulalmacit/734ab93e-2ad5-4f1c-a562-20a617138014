@@ -7,6 +7,7 @@ The project includes solutions to six distinct problems, each demonstrating a ke
 ##  Folder Structure
 
 project-folder/
+```
  data/     # Contains provided image files
   ├── tf2_engineer.jpg
   ├── einstein.tif
@@ -19,7 +20,7 @@ project-folder/
 ├── README.md                      # This file
 ├── requirements.txt               # Python dependencies
 └── <StudentID>_<Name_Surname>.txt # GitHub repo link
-
+```
 
 
 ## Requirements
